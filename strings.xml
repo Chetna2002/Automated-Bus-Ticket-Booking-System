@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Pravas</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="from_location">From Location</string>
+    <string name="to_location">To Location</string>
+    <string-array name="from_array">
+        <item> SELECT FROM : </item>
+        <item>Sitabuldi</item>
+        <item>LIC</item>
+        <item>Motimahal</item>
+        <item>Sadar</item>
+        <item>Chawni</item>
+        <item>Nelson Square</item>
+        <item>Mankapur</item>
+
+
+        <!-- Add more locations as needed -->
+
+    </string-array>
+
+
+    <string-array name="to_array">
+        <item> SELECT TO : </item>
+        <item>Sitabuldi</item>
+        <item>LIC</item>
+        <item>Motimahal</item>
+        <item>Sadar</item>
+        <item>Chawni</item>
+        <item>Nelson Square</item>
+        <item>Mankapur</item>
+
+        <!-- Add more locations as needed -->
+    </string-array>
+
+
+    <string-array name="SEATS_array">
+        <item> SEAT : </item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+
+
+        <!-- Add more locations as needed -->
+
+    </string-array>
+
+</resources>
